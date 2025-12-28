@@ -3,7 +3,7 @@ Business analysis case study: Diagnosed 60% sales gap for an auto franchise, bui
 
 # Auto Franchise Growth Strategy - Business Analysis Case Study
 
-## 📊 Project Overview
+##  Project Overview
 **Business Challenge:** An established auto franchise with 10+ years in used vehicles was struggling to compete in new auto sales, facing a **60% sales gap** against the market leader.
 
 **My Role:** Business Analyst & Strategy Lead
@@ -12,12 +12,12 @@ Business analysis case study: Diagnosed 60% sales gap for an auto franchise, bui
 
 **Core Achievement:** Transformed the franchise from struggling competitor to gaining **20% market share** through data-driven strategy.
 
-## 🎯 The Problem
+##  The Problem
 - **Sales Gap:** Selling 6-8 units/month vs. market leader's 15-17
 - **Root Cause Analysis:** Identified **"trust deficit"** as primary barrier
 - **Market Dynamics:** Rural customers, diesel-dominated segment, high price sensitivity
 
-## 🔍 My Analytical Approach
+##  My Analytical Approach
 ### **Competitive Benchmarking**
 - Mapped 5 competitors' sales, pricing, and positioning
 - Analyzed 15-year market leader's ecosystem advantage
@@ -33,7 +33,7 @@ Business analysis case study: Diagnosed 60% sales gap for an auto franchise, bui
 - Designed integrated digital-physical campaign architecture
 - Established KPIs for performance tracking
 
-## 🚀 Strategy & Execution
+##  Strategy & Execution
 
 ### **Pillar 1: Asset Leverage**
 - **Founder's Circle Program:** Activated existing customer database
@@ -48,7 +48,7 @@ Business analysis case study: Diagnosed 60% sales gap for an auto franchise, bui
 - **Community Engagement:** Free wash program driving showroom footfall
 - **Referral Engine:** Incentivized existing customers for lead generation
 
-## 📈 Results & Impact
+##  Results & Impact
 
 ### **Quantitative Outcomes:**
 - **47% increase** in monthly profit
@@ -61,17 +61,17 @@ Business analysis case study: Diagnosed 60% sales gap for an auto franchise, bui
 - Established scalable customer acquisition framework
 - Created competitive moats through unique service offerings
 
-## 🛠️ Key Deliverables
+##  Key Deliverables
 1. **Competitive Analysis Report** - Market positioning and gap analysis
 2. **Profitability Calculator** - Excel model with scenario analysis
 3. **GTM Strategy Deck** - Complete implementation roadmap
 4. **Performance Dashboard** - Monthly KPI tracking framework
 
-## 💼 Business Skills Demonstrated
+##  Business Skills Demonstrated
 - **Problem Diagnosis:** Root cause analysis and gap identification
 - **Financial Modeling:** Profitability analysis and ROI forecasting
 - **Strategy Development:** Go-to-market planning and execution
 - **Data-Driven Decision Making:** KPI design and performance measurement
 - **Stakeholder Management:** Client communication and implementation oversight
 
-## 📁 Repository Structure
+##  Repository Structure
